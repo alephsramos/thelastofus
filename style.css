@@ -25,7 +25,7 @@ nav{
 }
 
 .logo-nav img{
-    width: 150px;
+    width: 100px;
 }
 
 .links-nav{
@@ -165,7 +165,7 @@ nav{
     font-size: 1.5rem;
     color: #ff7b00;
     text-align: left;
-    margin-left: 4%;
+    margin-left: 3%;
 }
 
 .classificação{
@@ -176,8 +176,9 @@ nav{
 }
 
 .classificação img{
-    width: 50px;
+    width: 80px;
     margin-right: 2%;
+    margin-left: 10%;
 }
 
 .text16{
@@ -330,7 +331,7 @@ nav{
 
 .coluna-img2{
     width: 140px;
-    height: 55px;
+    height: 85px;
     margin: 5%;
 }
 
