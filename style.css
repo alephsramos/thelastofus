@@ -266,6 +266,7 @@ nav{
     height: px;
     margin-right: 10px;
     transition: transform 0.2s;
+    border-radius: 50%;
 }
 
 .profile img:hover{
@@ -302,12 +303,13 @@ nav{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-left: 5%;
 }
 
 .coluna-img {
-    width: 400px; /* ajuste o tamanho conforme necessário */
+    width: 300px; /* ajuste o tamanho conforme necessário */
     height: auto; /* para manter a proporção */
-    margin: 10px; /* espaço entre as imagens */
+    margin: 5px; /* espaço entre as imagens */
     transition: transform 0.2s;
 }
 
